@@ -9,7 +9,7 @@
   "author": "Russell Koons",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.20",
     "morgan": "^1.9.1",
